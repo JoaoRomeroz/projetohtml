@@ -1,2 +1,3 @@
-# projetohtml
-inicio de estudos de html e css
+# Projetohtml
+
+Inicio de estudos de html e css, para desenvolver web.
